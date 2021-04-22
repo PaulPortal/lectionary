@@ -1,1 +1,1 @@
-//Praise the Lord;
+console.log("Praise the Lord!");
