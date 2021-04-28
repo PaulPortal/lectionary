@@ -1,2 +1,5 @@
 // Lectionary is a book or listing that contains a collection of scripture readings for a given day or occasion.
-console.log("Praise the Lord!");
+
+import * as lec from "./src/index-deno.ts"
+
+console.log(lec.getSeasons());

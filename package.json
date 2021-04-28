@@ -1,0 +1,28 @@
+{
+  "name": "@paul-portal/lectionary",
+  "version": "0.0.1",
+  "description": "Order of readings for use at Mass Promulgated by His Holiness Pope Paul VI",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulPortal/lectionary.git"
+  },
+  "keywords": [
+    "lectionary",
+    "bible",
+    "jesus"
+  ],
+  "author": "prince@paulportal.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulPortal/lectionary/issues"
+  },
+  "homepage": "https://github.com/PaulPortal/lectionary#readme"
+}
