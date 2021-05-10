@@ -2,7 +2,14 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.getSeasons = void 0;
 function getSeasons() {
-    let seasons = [{ "seasonName": "Advent" }];
+    let seasons = [
+        { "name": "Advent", "seasonName": "Advent Seaon" },
+        { "name": "Christmastide", "seasonName": "Christmas Season" },
+        { "name": "Yearly Cycle I", "seasonName": "Ordinary Time I" },
+        { "name": "Lent", "seasonName": "Lent Season" },
+        { "name": "Eastertide", "seasonName": "Easter Season" },
+        { "name": "Yearly Cycle II", "seasonName": "Ordinary Time II" }
+    ];
     return seasons;
 }
 exports.getSeasons = getSeasons;
