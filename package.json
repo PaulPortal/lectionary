@@ -1,6 +1,6 @@
 {
   "name": "@paul-portal/lectionary",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Order of readings for use at Mass Promulgated by His Holiness Pope Paul VI",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -17,7 +17,8 @@
   "keywords": [
     "lectionary",
     "bible",
-    "jesus"
+    "jesus",
+    "Daily Reading"
   ],
   "author": "prince@paulportal.com",
   "license": "ISC",

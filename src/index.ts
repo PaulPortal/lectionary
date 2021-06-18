@@ -1,2 +1,2 @@
-export {sayHello, sayGoodbye} from './hello-world'
-export {getSeasons} from './seasons'
+export {getSeasons} from './seasons.ts'
+export {liturgicalCalenderDates} from './liturgicalCalender.ts'
