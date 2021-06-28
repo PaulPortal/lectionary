@@ -1,2 +1,2 @@
-export {getSeasons} from './seasons.ts'
-export {liturgicalCalenderDates} from './liturgicalCalender.ts'
+export {getSeasons} from './seasons'
+export {liturgicalCalenderDates, getSundayCycle, getDatesByYear} from './liturgicalCalender'

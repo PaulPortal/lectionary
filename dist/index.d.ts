@@ -1,2 +1,2 @@
 export { getSeasons } from './seasons';
-export { liturgicalCalenderDates } from './liturgicalCalender';
+export { liturgicalCalenderDates, getSundayCycle, getDatesByYear } from './liturgicalCalender';
