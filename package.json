@@ -1,6 +1,6 @@
 {
   "name": "@paul-portal/lectionary",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Order of readings for use at Mass Promulgated by His Holiness Pope Paul VI",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/PaulPortal/lectionary/issues"
   },
-  "homepage": "https://github.com/PaulPortal/lectionary#readme"
+  "homepage": "https://github.com/PaulPortal/lectionary#readme",
+  "dependencies": {
+    "user": "^0.0.0"
+  }
 }

@@ -1,4 +1,4 @@
-import {daysInMonth} from "./util.ts"
+import {daysInMonth} from "./util"
 //Moveable dates of the Liturgical Calender
 /*
 yr - year
@@ -25,7 +25,7 @@ export const liturgicalCalenderDates = [
         "adv":{"m":11,"dt":28}     
     }    
     /*{
-        "yr":"",
+        "yr":,
         "ash":{"m":,"dt":},
         "eas":{"m":,"dt":},
         "asc":{"m":,"dt":},

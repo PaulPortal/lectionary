@@ -28,7 +28,7 @@ exports.liturgicalCalenderDates = [
         "adv": { "m": 11, "dt": 28 }
     }
     /*{
-        "yr":"",
+        "yr":,
         "ash":{"m":,"dt":},
         "eas":{"m":,"dt":},
         "asc":{"m":,"dt":},
@@ -67,7 +67,7 @@ function getSundayCycle(yr, month, dt) {
     if (dt == undefined) {
         dt = cdt;
     }
-    let dim = util_1.daysInMonth(month, yr);
+    let dim = (0, util_1.daysInMonth)(month, yr);
     if (dt < 1 || dt > dim) {
         dt = 1;
     }
