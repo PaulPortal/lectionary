@@ -26,14 +26,23 @@ exports.liturgicalCalenderDates = [
         "asc": { "m": 5, "dt": 16 },
         "pen": { "m": 5, "dt": 23 },
         "adv": { "m": 11, "dt": 28 }
+    },
+    {
+        "yr": 2022,
+        "ash": { "m": 3, "dt": 2 },
+        "eas": { "m": 4, "dt": 17 },
+        "asc": { "m": 5, "dt": 26 },
+        "pen": { "m": 6, "dt": 5 },
+        "adv": { "m": 11, "dt": 27 },
     }
+    //2022	C	II	8	March 2	April 17	June 5	10	Nov 27	Sunday
     /*{
         "yr":,
         "ash":{"m":,"dt":},
         "eas":{"m":,"dt":},
         "asc":{"m":,"dt":},
         "pen":{"m":,"dt":},
-        "adv":{"m":",dt":},
+        "adv":{"m":,"dt":},
     },*/
 ];
 function getDatesByYear(yr) {
