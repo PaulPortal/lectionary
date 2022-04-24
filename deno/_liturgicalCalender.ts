@@ -1,4 +1,4 @@
-import {daysInMonth} from "./util"
+import {daysInMonth} from "../src/util.ts"
 //Moveable dates of the Liturgical Calender
 /*
 yr - year
